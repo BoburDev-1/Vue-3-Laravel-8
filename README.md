@@ -1,4 +1,4 @@
-# vue-frilans
+# Portfolio vue-3 laravel 8 
 
 ## Project setup
 ```
