@@ -20,6 +20,8 @@
   ### Site
 ```
 
+![](screenshots/vue3_site.png)
+
 ## Project setup
 ```
 npm install
