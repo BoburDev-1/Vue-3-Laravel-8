@@ -3,6 +3,7 @@
 ### Ajax Axios lib
 ### ajax search product
 ### ajax pagination
+### ajax upload / delete avatar
 ### vuex 
 ### ajax sort product price ( low and top )
 ### minicart
